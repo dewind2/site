@@ -1,0 +1,55 @@
+body{
+  background-color: #EEEEEE;
+}
+
+h3{
+  text-align: center;
+  font-family: Arial;
+  color: #3874F0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+input{
+  border: 0;
+  width: 250px;
+  height: 40px;
+  margin: 3px;
+  padding-left: 20px;
+  background-color: #FFF9F5;
+}
+
+#login{
+  border: 0;
+  border-radius: 5px;
+  width: 275px;
+  height: 35px;
+  margin-top: 5px;
+  background-color: #2C36FF;
+  color: #F4F4FF;
+}
+
+#create{
+  border: 0px;
+  width: 150px;
+  height: 35px;
+  background-color: #0BBB3F;
+}
+
+#cna{
+  color: #F0F0F0
+}
+
+a{
+  text-decoration: none;
+}
+
+h4{
+  width: 100%;
+  border-bottom: 1px solid #64656E;
+  line-height: 1px;
+}
